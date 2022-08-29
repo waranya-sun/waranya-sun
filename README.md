@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>👋Hi, I'm Waranya</h1>
+<p>I'm a frontend developer who focuses on writing efficient, elegant and clean code. I am highly self-motivated and enjoy using my logical side along with my coding skills 💻, and also my creativity to create interactive websites ✨. Moreover, I am a coffee lover ☕</p>
 
-<!--
-**waranya-sun/waranya-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me:
+- LinkedIn: [waranya-sunthrakhom](www.linkedin.com/in/waranya-sunthrakhom/)
+- Email: [waranya.sun@gmail.com](mailto:waranya.sun@gmail.com)
+
+## 🚀 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,tailwind,bootstrap,css,html,wordpress,firebase,netlify,aws)](https://skillicons.dev)
